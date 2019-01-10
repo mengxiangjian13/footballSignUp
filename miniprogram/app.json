@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/signup/signup",
     "pages/index/index",
     "pages/userConsole/userConsole",
     "pages/storageConsole/storageConsole",
@@ -11,8 +12,8 @@
   "window": {
     "backgroundColor": "#F6F6F6",
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#F6F6F6",
-    "navigationBarTitleText": "云开发 QuickStart",
+    "navigationBarBackgroundColor": "#00FF00",
+    "navigationBarTitleText": "球赛报名助手",
     "navigationBarTextStyle": "black"
   }
 }

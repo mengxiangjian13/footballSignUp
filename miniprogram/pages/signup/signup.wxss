@@ -1,0 +1,2 @@
+/* miniprogram/pages/signup/signup.wxss */
+@import "../../style/weui.wxss";
